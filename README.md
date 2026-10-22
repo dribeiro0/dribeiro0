@@ -35,8 +35,8 @@ CompTIA **Security+** · CompTIA ITF+ · Google Cybersecurity · ITS Cybersecuri
 ### Right now
 
 - Working through the **Cisco CCNA**
-- Building with **Python**, **Linux**, and networking tooling
-- Blue Hills Regional CIS valedictorian · state-level **SkillsUSA Internetworking** competitor
+- Building with **Python**, **Linux**, networking tooling, and more
+- Blue Hills Regional CIS valedictorian
 - Open to **Summer 2027 IT and cybersecurity internships**
 
 I don't think anyone builds anything meaningful alone — always glad to talk to people who are building something.
